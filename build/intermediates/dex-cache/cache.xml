@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator.USER-20161026TK\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="D:\work\dongdongTool\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_2214654e5aee36df196713175108c1d6f98d9d6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work\dongdongTool\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="39d4c91e95d4f0cf012c5248c8904cb0deb7cb3d">
+        <dex dex="D:\work\dongdongTool\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_603d7fa51fcb9f6005bf6549e4218516ca7281b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work\dongdongTool\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="D:\work\dongdongTool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_cfd21df1f0148eccfd91524b5e41a6517f476aff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work\dongdongTool\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="D:\work\dongdongTool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_af7f486814ab69a9d48e5e99eb0c8813510e43b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work\dongdongTool\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="D:\work\dongdongTool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_7c90c12a798b4f7ac09ca4e918a958761d0e41ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work\dongdongTool\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="D:\work\dongdongTool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_dc0c51c840bef856f81e9b628c457b821f65c492\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work\dongdongTool\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="D:\work\dongdongTool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_369270f39a6fd8689eab05702aaf272bae2b6b6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work\dongdongTool\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3bedbf6b98d3be91f3591fdff1ae8e43327c4bd8">
+        <dex dex="D:\work\dongdongTool\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5b38cdf8d692b63a2c4a50dfa579c9f04208a0d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work\dongdongTool\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="D:\work\dongdongTool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_0f997769bfdfbf6b81127e231294b37e644783e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work\dongdongTool\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="D:\work\dongdongTool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_c0b559001a15ad213e13d18494f995476a8dfa21\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work\dongdongTool\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\work\dongdongTool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_427bc5cc08f8f1e1de9dda8b9baf5f14f9ae1b3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work\dongdongTool\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="D:\work\dongdongTool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_eeea37630c624f49d321e4ded8179366948acfab\classes.dex" />
+    </item>
+
+</items>
