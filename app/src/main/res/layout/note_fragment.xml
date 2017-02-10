@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:background="#FFFFFF"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:id="@+id/save_note_list"
+        android:layout_width="150dp"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:orientation="vertical">
+        <ListView
+            android:id="@+id/save_listview"
+            android:layout_margin="5dp"
+            android:background="#81966F"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+        </ListView>
+
+    </LinearLayout>
+    <ScrollView
+        android:layout_width="315dp"
+        android:layout_height="fill_parent"
+        android:scrollbars="vertical" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_marginLeft="2dp"
+            android:orientation="vertical" >
+            <TextView
+                android:id="@+id/tv_date"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="" />
+            <EditText
+                android:id="@+id/et_content"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#FFAE99"
+                android:textSize="20sp" />
+        </LinearLayout>
+    </ScrollView>
+
+    <View android:layout_height="fill_parent"
+        android:layout_width="1dp"
+        android:layout_toLeftOf="@id/save_note_list"
+        android:background="@android:color/background_dark"/>
+
+
+
+    <ImageButton
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_marginEnd="15dp"
+        android:layout_marginBottom="60dp"
+        android:id="@+id/button_cancel"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/button_cancel"
+        android:layout_toStartOf="@+id/save_note_list" />
+
+    <ImageButton
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_marginBottom="18dp"
+        android:id="@+id/button_save"
+        android:background="@drawable/button_save"
+        android:layout_alignParentBottom="true"
+        android:layout_alignStart="@+id/button_cancel" />
+
+    <ImageButton
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:id="@+id/button_new"
+        android:background="@drawable/button_new"
+        android:layout_above="@+id/button_cancel"
+        android:layout_alignStart="@+id/button_cancel"
+        android:layout_marginBottom="17dp" />
+
+</RelativeLayout>
