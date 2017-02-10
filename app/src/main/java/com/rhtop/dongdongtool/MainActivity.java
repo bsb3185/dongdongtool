@@ -14,7 +14,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.rhtop.dongdongtool.adapter.MyFragmentPagerAdapter;
-import com.rhtop.dongdongtool.fragment.ButtonFragment;
+import com.rhtop.dongdongtool.fragment.GetGoodFragment;
 import com.rhtop.dongdongtool.fragment.CalculatorFragment;
 import com.rhtop.dongdongtool.fragment.NotePadFragment;
 import com.rhtop.dongdongtool.fragment.TestFragment;
@@ -116,7 +116,7 @@ public class MainActivity extends FragmentActivity {
     public void InitViewPager(){
         mPager = (ViewPager)findViewById(R.id.viewpager);
         fragmentList = new ArrayList<Fragment>();
-        Fragment btFragment= new ButtonFragment();
+        Fragment GetGoodFragment= new GetGoodFragment();
         Fragment secondFragment = TestFragment.newInstance("this is second fragment");
         Fragment thirdFragment = TestFragment.newInstance("this is third fragment");
         Fragment fourthFragment = TestFragment.newInstance("this is fourth fragment");
@@ -127,7 +127,7 @@ public class MainActivity extends FragmentActivity {
         Fragment CalculatorFragment = new CalculatorFragment();
         Fragment NotePadFragment = new NotePadFragment();
         Fragment eleventhFragment = TestFragment.newInstance("this is eleventh fragment");
-        fragmentList.add(btFragment);
+        fragmentList.add(GetGoodFragment);
         fragmentList.add(secondFragment);
         fragmentList.add(thirdFragment);
         fragmentList.add(fourthFragment);

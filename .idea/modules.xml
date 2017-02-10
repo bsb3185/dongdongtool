@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/dongdongTool.iml" filepath="$PROJECT_DIR$/dongdongTool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dongdongtool.iml" filepath="$PROJECT_DIR$/dongdongtool.iml" />
     </modules>
   </component>
 </project>
